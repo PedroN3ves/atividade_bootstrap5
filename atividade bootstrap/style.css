@@ -1,0 +1,23 @@
+*::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#hero, #footer{
+    background-color: rgb(0, 79, 158);
+}
+
+.navbar{
+    background-color: rgb(0, 79, 158) !important;
+}
+
+.pesquisa{
+    background: linear-gradient(to right, rgb(9, 127, 201), rgb(0, 39, 78));
+}
+
+h4 :hover{
+    color: red !important;
+}
