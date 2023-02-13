@@ -21,3 +21,7 @@
 h4 :hover{
     color: red !important;
 }
+
+#rights :hover{
+    color: black !important;
+}
